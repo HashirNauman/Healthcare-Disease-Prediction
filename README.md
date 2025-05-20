@@ -1,1 +1,1 @@
-# Traffic-Sign-Classifier
+# Healthcare-Disease-Prediction

@@ -37,8 +37,8 @@ pip install pandas numpy scikit-learn matplotlib seaborn joblib
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/<your-username>/heart-disease-rf.git
-   cd heart-disease-rf
+   git clone https://github.com/HashirNauman/Healthcare-Disease-Prediction.git
+   cd Healthcare-Disease-Prediction
    ```
 
 2. **Run the script**
